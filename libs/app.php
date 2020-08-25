@@ -1,4 +1,4 @@
-<?php
+<?php //se hace el mapeo
 require_once 'controller/errors.php';
 class App{
     function __construct(){
