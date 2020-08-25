@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>seccion ayuda</h2>    
+<?php require 'views/header.php'?>
+    <div id="main">
+        <h1 class="center">Seccion Ayuda</h1>
+    </div>
+    <?php require 'views/footer.php'?>   
 </body>
 </html>
